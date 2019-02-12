@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yoofae.felixtripier.com/sitemap.xml
